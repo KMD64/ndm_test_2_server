@@ -1,7 +1,7 @@
 A "calculator" server that uses Generic Netlink protocol for communication.
 Requests and responses are string-serialized JSON objects (see examples below).
 
-For client part see https://github.com/KMD64/ndm_test_2_client
+For client part look into https://github.com/KMD64/ndm_test_2_client
 
 Request example:
 {
